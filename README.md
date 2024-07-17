@@ -1,5 +1,8 @@
 # Assignment5
 
+# Assignment 5.1 by Jananyaw Sathyanarayanan
+URL : https://github.com/jsathyan3245/Assignment5/blob/main/prompt_jsathyan.ipynb
+
 # Coupon Acceptance Analysis
 
 ## Problem
